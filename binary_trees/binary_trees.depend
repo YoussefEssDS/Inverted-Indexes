@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1570545820 source:e:\git\binary trees\binary_trees\main.cpp
+	<iostream>
+	"BTC.h"
+
+1570546323 e:\git\binary trees\binary_trees\btc.h
+	<iostream>
+	<stdlib.h>
+
