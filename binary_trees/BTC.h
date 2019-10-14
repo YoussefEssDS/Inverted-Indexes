@@ -16,11 +16,11 @@ class node{
         void printKey(){
             cout <<key<< endl;
         }
-        void getLeft(){
-            cout <<left->key<< endl;
+        node getLeft(){
+            return(*left);
         }
-        void getRight(){
-            cout <<right->key<< endl;
+        node getRight(){
+            return(*right);
         }
 };
 

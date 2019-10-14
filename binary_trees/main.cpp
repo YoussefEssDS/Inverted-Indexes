@@ -9,7 +9,9 @@ int main()
     node node2=node(48,NULL,NULL);
     node node3=node(50,&node1,&node2);
     node3.printKey();
-    node3.getLeft();
-    node3.getRight();
+    node a=node3.getLeft();
+    node b=node3.getRight();
+    cout <<node1.key<< endl;
+    cout <<node2.key<< endl;
     return 0;
 }
