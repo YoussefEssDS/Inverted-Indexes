@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1571067082 source:e:\git\inverted-indexes\binarytrees\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"TREE.h"
+
+1571067642 source:e:\git\inverted-indexes\binarytrees\tree.cpp
+	<iostream>
+	<cstdlib>
+	"TREE.H"
+
+1571062725 e:\git\inverted-indexes\binarytrees\tree.h
+	<iostream>
+	<cstdlib>
+
